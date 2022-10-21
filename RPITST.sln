@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPITST", "RPITST\RPITST.csproj", "{F2FDDD97-0D5F-48FE-9853-BC13B916A224}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TVETTO", "TVETTO\TVETTO.vdproj", "{57E2D3E3-37FC-4C53-9760-0F0FD32C9831}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPITST_WPFAPP", "RPITST_WPFAPP\RPITST_WPFAPP.csproj", "{09542367-3E47-4741-ADA0-3B84909B6085}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2FDDD97-0D5F-48FE-9853-BC13B916A224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2FDDD97-0D5F-48FE-9853-BC13B916A224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2FDDD97-0D5F-48FE-9853-BC13B916A224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FDDD97-0D5F-48FE-9853-BC13B916A224}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57E2D3E3-37FC-4C53-9760-0F0FD32C9831}.Debug|Any CPU.ActiveCfg = Debug
+		{57E2D3E3-37FC-4C53-9760-0F0FD32C9831}.Release|Any CPU.ActiveCfg = Release
+		{09542367-3E47-4741-ADA0-3B84909B6085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09542367-3E47-4741-ADA0-3B84909B6085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09542367-3E47-4741-ADA0-3B84909B6085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09542367-3E47-4741-ADA0-3B84909B6085}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA64FCDB-EA6C-44B2-BEB9-395135519AD2}
+	EndGlobalSection
+EndGlobal
