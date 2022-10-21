@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPITST", "RPITST\RPITST.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RPITST_WPFAPP", "RPITST_WPFAPP\RPITST_WPFAPP.csproj", "{09542367-3E47-4741-ADA0-3B84909B6085}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wpf_dashboard", "wpf_dashboard\wpf_dashboard.csproj", "{CD20C634-4C06-4C5C-923B-4CED0518F1F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{09542367-3E47-4741-ADA0-3B84909B6085}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09542367-3E47-4741-ADA0-3B84909B6085}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09542367-3E47-4741-ADA0-3B84909B6085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD20C634-4C06-4C5C-923B-4CED0518F1F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD20C634-4C06-4C5C-923B-4CED0518F1F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD20C634-4C06-4C5C-923B-4CED0518F1F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD20C634-4C06-4C5C-923B-4CED0518F1F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
